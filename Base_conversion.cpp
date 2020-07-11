@@ -1,11 +1,3 @@
-/*
-Sources:
-
-“Std::Stoi.” Cplusplus.com, www.cplusplus.com/reference/string/stoi/.
-“Char to Int - C Forum.” Cplusplus.com, www.cplusplus.com/forum/beginner/68260/.
-
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <math.h>
